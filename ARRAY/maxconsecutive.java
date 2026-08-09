@@ -1,4 +1,4 @@
-import java.util.*;
+
 class maxconsecutive{
     
     public static int consecutive(int arr[]){

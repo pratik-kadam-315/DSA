@@ -1,6 +1,6 @@
 import java.util.*;
 class unionarray{
-    public static ArrayList<Integer> unionarray(int arr1[],int arr2[]){
+    public static ArrayList<Integer> unionarray01(int arr1[],int arr2[]){
 
         int i=0;
         int j=0;
@@ -42,6 +42,6 @@ class unionarray{
     public static void main(String[]args){
         int arr1[]={1,2,3,4,5,6};
         int arr2[]={1,2,5,7,8,9};
-        System.out.println(unionarray(arr1, arr2));
+        System.out.println(unionarray01(arr1, arr2));
     }
 }
