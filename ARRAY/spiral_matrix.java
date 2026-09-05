@@ -55,6 +55,6 @@ public class spiral_matrix {
 
         List<Integer> answer = spiralOrder(matrix);
 
-        System.out.println("Spiral Order: " + answer);
+        System.out.println("Spiral Order:"+ answer);
     }
 }
